@@ -4,7 +4,7 @@
 
 <hr>
 
-﻿#About Poem
+# About Poem
 
 - The verses that are read the same way when read from left to right or from top to bottom are called "chess ghazal". It is claimed that this quatrain belongs to Yavuz Sultan Selim (1471-1520).
 
@@ -16,5 +16,6 @@
     4 5 6 7 <br>
     
 <hr>
-    
+    <img src="/poem_of_YSS/1.png" alt="">
+    <img src="/poem_of_YSS/2.png" alt="">
     
